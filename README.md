@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-mywebpages
-==========
-
-web pages for my personal website
-=======
 navyad.github.io
 ================
 
