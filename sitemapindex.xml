@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://navyad.github.io/galleries/rss.xml</loc>
-  <lastmod>2021-07-15T11:26:00Z</lastmod>
+  <lastmod>2022-08-26T06:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://navyad.github.io/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>https://navyad.github.io/sitemap.xml</loc>
-  <lastmod>2021-12-02T08:06:00Z</lastmod>
+  <lastmod>2022-08-26T06:02:00Z</lastmod>
  </sitemap>
 </sitemapindex>
