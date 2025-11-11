@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>General - Category - Naveen Yadav</title>
+        <link>http://localhost:1313/categories/general/</link>
+        <description>General - Category - Naveen Yadav</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/general/" rel="self" type="application/rss+xml" /><item>
+    <title></title>
+    <link>http://localhost:1313/about/</link>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/about/</guid>
+    <description><![CDATA[<h3 id="-about-me">👋 About Me</h3>
+<p>I&rsquo;m a software developer with over 10+ years of experience. I live in Bangalore, India.</p>
+<h3 id="-what-i-do">🚀 What I Do</h3>
+<ul>
+<li>Built products from concept to MVP and growing products.</li>
+<li>Leading technical teams and defining engineering standards.</li>
+<li>Modernizing and optimizing existing codebases.</li>
+<li>Mentoring junior developers and technical teams.</li>
+</ul>]]></description>
+</item>
+</channel>
+</rss>

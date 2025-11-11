@@ -1,0 +1,55 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Naveen Yadav</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - Tag - Naveen Yadav</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 28 Aug 2024 15:30:00 &#43;0530</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Python</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <pubDate>Wed, 28 Aug 2024 15:30:00 &#43;0530</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/python/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Software-Development</title>
+    <link>http://localhost:1313/tags/software-development/</link>
+    <pubDate>Wed, 28 Aug 2024 15:30:00 &#43;0530</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/software-development/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Tdd</title>
+    <link>http://localhost:1313/tags/tdd/</link>
+    <pubDate>Wed, 28 Aug 2024 15:30:00 &#43;0530</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/tdd/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Testing</title>
+    <link>http://localhost:1313/tags/testing/</link>
+    <pubDate>Wed, 28 Aug 2024 15:30:00 &#43;0530</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/testing/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>About</title>
+    <link>http://localhost:1313/tags/about/</link>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/about/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Personal</title>
+    <link>http://localhost:1313/tags/personal/</link>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/personal/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

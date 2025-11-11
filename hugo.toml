@@ -1,0 +1,87 @@
+baseURL = "https://your-actual-domain.com/"  # Update this
+theme = "LoveIt"
+title = "Naveen Yadav"
+languageCode = "en"
+languageName = "English"
+
+
+# Menu config
+[menu]
+   [[menu.main]]
+    weight = 1
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+
+  [[menu.main]]
+    weight = 2
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    
+  [[menu.main]]
+    weight = 3
+    identifier = "code"
+    name = "Code"
+    url = "/code/"
+
+ 
+
+# Markup related configuration
+[markup]
+  [markup.highlight]
+    noClasses = false
+    lineNos = true
+    style = "github"
+
+
+
+
+
+[params]
+  [params.home]
+    [params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = ""
+      # URL of avatar shown in home page
+      avatarURL = "/images/profile.png"
+      # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
+      title = "{tech ramblings}"
+      # subtitle shown in home page (HTML format is supported)
+      subtitle = ""
+      # whether to use typeit animation for subtitle
+      typeit = false
+      # whether to show social links
+      social = true
+
+     [params.home.posts]
+      enable = false        
+
+  [params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
+
+  [params.header.title]
+    name = "Naveen Yadav"
+
+
+    
+  [params.footer]
+    enable = true
+    custom = "Copyright © 2025 Naveen Yadav. Powered by Hugo."
+    # Hide the default theme credit
+    hugo = false
+    # Hide copyright line
+    copyright = false
+    # Hide author info
+    author = false
+    # Hide since year
+    since = false
+    # Hide theme info
+    license = false
+    
+  [params.social]
+    GitHub = "navyad"
+    LinkedIn = "naveen-yadav-10b08435"
+    Email = "navyad.it@gmail.com"
