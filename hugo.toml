@@ -1,0 +1,52 @@
+baseURL = "https://navyad.github.io/"
+title = "Naveen Yadav"
+theme = "hello-friend-ng"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  dateform = "Jan 2, 2006"
+  dateformShort = "Jan 2"
+  dateformNum = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  homeSubtitle = "Software Engineer · Technical Leader · First Engineer at 4 Early-Stage Startups"
+
+  disableReadOtherPosts = false
+  enableSharingButtons = true
+
+  description = "Naveen Yadav — software engineer and technical leader with 13+ years of experience."
+  keywords = "Naveen Yadav, software engineer, technical leader, CTO, backend, AI"
+
+[taxonomies]
+  category = "blog"
+  tag = "tags"
+  series = "series"
+
+[languages]
+  [languages.en]
+    title = "Naveen Yadav"
+    subtitle = "Software Engineer · Technical Leader"
+    keywords = "software engineer, technical leader, CTO, backend, AI"
+    copyright = ""
+
+    [languages.en.params.logo]
+      logoText = "Naveen Yadav"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects/"
+
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Writing"
+        url = "/posts/"
