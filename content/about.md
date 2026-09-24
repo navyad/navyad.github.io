@@ -4,9 +4,9 @@ description: "Naveen Yadav"
 draft: false
 ---
 
-I'm a software engineer (Backend), living in Bangalore, India**.
+I am a software engineer (Backend), living in Bangalore, India.
 
-I've been the **first engineer at 4 early-stage startups**, working closely with founders to build products from **0 → 1 → scale**.
+I have been the **first engineer at 4 early-stage startups**, working closely with founders to build products from **0 → 1 → scale**.
 
 I enjoy taking an idea, figuring out how to make it real, and building the technology behind it from the first prototype to a product that can grow with the business.
 
