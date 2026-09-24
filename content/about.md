@@ -4,11 +4,13 @@ description: "Naveen Yadav"
 draft: false
 ---
 
-I'm a software engineer (Backend) and technical leader with **13+ years of experience**.
+I'm a software engineer (Backend), living in Bangalore, India**.
 
 I've been the **first engineer at 4 early-stage startups**, working closely with founders to build products from **0 → 1 → scale**.
 
 I enjoy taking an idea, figuring out how to make it real, and building the technology behind it from the first prototype to a product that can grow with the business.
+
+I work extensively with Python and have contributed to open-source projects along the way.
 
 
 ## How I Can Help
