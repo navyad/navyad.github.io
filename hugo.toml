@@ -11,7 +11,7 @@ theme = "hello-friend-ng"
   dateformNum = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  homeSubtitle = "Software Engineer · Technical Leader · First Engineer at 4 Early-Stage Startups"
+  homeSubtitle = "Software Engineer"
 
   disableReadOtherPosts = false
   enableSharingButtons = true
@@ -46,7 +46,7 @@ theme = "hello-friend-ng"
         name = "Projects"
         url = "/projects/"
 
-      [[languages.en.menu.main]]
-        identifier = "posts"
-        name = "Writing"
-        url = "/posts/"
+      # [[languages.en.menu.main]]
+      #   identifier = "posts"
+      #   name = "Writing"
+      #   url = "/posts/"

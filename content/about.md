@@ -8,7 +8,7 @@ I'm a software engineer (Backend) and technical leader with **13+ years of exper
 
 I've been the **first engineer at 4 early-stage startups**, working closely with founders to build products from **0 → 1 → scale**.
 
-I enjoy working at the intersection of **technology, product, and business** — turning ideas into products and building the engineering foundations to help them scale.
+I enjoy taking an idea, figuring out how to make it real, and building the technology behind it from the first prototype to a product that can grow with the business.
 
 
 ## How I Can Help
@@ -39,7 +39,7 @@ I enjoy working at the intersection of **technology, product, and business** —
 
 ## Contact
 
-If you're a founder building something and looking for someone who can **turn ideas into working products, take ownership of the technology, and build the foundation for scale**, reach out. I'd love to hear what you're building.
+If you’re working on something cool, reach out.
 
 * [LinkedIn](https://linkedin.com/in/naveen-yadav-10b08435) 
 * [Github](https://github.com/navyad) 
